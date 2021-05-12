@@ -5,13 +5,10 @@
  - pet's project
  - practice techs stack that I wanna learn
 
-
-### Domain
-- zuck.com
-- zuckpa.com
-- zuck_pa.com
-
-
+###  Stages
+1. build MVP
+2. Deploy
+3. whatever lol
 
 
 ### Functional  Requirements
@@ -25,9 +22,7 @@
 - Paragraphs /Explanation
 
 
-###  Stages
-1. build MVP
-2. Deploy
-3. whatever lol
-
- 
+### Domain
+- zuck.com
+- zuckpa.com
+- zuck_pa.com
