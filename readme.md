@@ -7,9 +7,10 @@
  - learn when to use grid vs flexbox vs position(CSS)
  - how to do media queries
 ###  Stages
-1. build MVP
-2. Deploy
-3. whatever lol
+1. UI Mock
+2. build MVP
+3. Deploy
+4. whatever lol
 
 
 ### Functional  Requirements
